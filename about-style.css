@@ -13,3 +13,20 @@
   font-size: 0.9rem;
   color: rgba(0, 0, 0, 0.4);
 }
+.about-page .column-set {
+  display: flex;
+  justify-content: center;
+  padding: 2rem;
+}
+
+.about-page .column-unit {
+  max-width: 700px;
+  padding: 1rem;
+  font-size: 1rem;
+  line-height: 1.7;
+  color: var(--swatch-1, #333);
+}
+
+.about-page p {
+  margin-bottom: 1.5rem;
+}
