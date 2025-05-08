@@ -1,0 +1,47 @@
+
+/* === BASE STYLES (shared across all pages) === */
+
+body {
+  font-family: sans-serif;
+  margin: 2rem;
+  background-color: #f9f9f9;
+  color: #333;
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+  display: flex;
+  gap: 1rem;
+}
+
+nav li {
+  display: inline;
+}
+
+nav a {
+  text-decoration: none;
+  color: #0077cc;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+/* Universal typography and layout elements */
+html {
+	--mobile-scale: 1.2;
+	--mobile-padding-offset: 0;
+}
+
+body {
+	--swatch-1: rgba(0, 0, 0, 0.85);
+	--swatch-2: rgba(0, 0, 0, 0.75);
+	--swatch-3: rgba(0, 0, 0, 0.6);
+	--swatch-4: rgba(0, 0, 0, 0.4);
+    --swatch-5: rgba(0, 0, 0, 0.25);
+	--swatch-6: rgba(0, 0, 0, 0.15);
+	--swatch-7: rgba(0, 0, 0, 0);
+}
+
+/* ... (additional shared styles like headers, ol/ul, blockquote, caption, etc.) */

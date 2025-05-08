@@ -1,0 +1,15 @@
+
+/* === CONTACT PAGE STYLES === */
+.contact-page {
+  /* Page-wide styles (e.g., padding or background) */
+}
+
+.contact-page h1 {
+  font-size: 2.5rem;
+  color: #000;
+}
+
+.contact-page .caption {
+  font-size: 0.9rem;
+  color: rgba(0, 0, 0, 0.4);
+}

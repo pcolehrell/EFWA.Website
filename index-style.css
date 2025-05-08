@@ -1,0 +1,15 @@
+
+/* === INDEX PAGE STYLES === */
+.index-page {
+  /* Page-wide styles (e.g., padding or background) */
+}
+
+.index-page h1 {
+  font-size: 2.5rem;
+  color: #000;
+}
+
+.index-page .caption {
+  font-size: 0.9rem;
+  color: rgba(0, 0, 0, 0.4);
+}

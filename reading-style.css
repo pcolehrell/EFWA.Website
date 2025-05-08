@@ -1,0 +1,15 @@
+
+/* === READING PAGE STYLES === */
+.reading-page {
+  /* Page-wide styles (e.g., padding or background) */
+}
+
+.reading-page h1 {
+  font-size: 2.5rem;
+  color: #000;
+}
+
+.reading-page .caption {
+  font-size: 0.9rem;
+  color: rgba(0, 0, 0, 0.4);
+}
